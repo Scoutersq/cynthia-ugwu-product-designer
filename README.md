@@ -17,5 +17,5 @@ This project replicates the clean, minimal, and interactive design of her portfo
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cynthia-ugwu-clone.git
+   git clone https://github.com/your-username/cynthia-ugwu-product-designer.git
    cd cynthia-ugwu-clone
